@@ -1,5 +1,5 @@
 
-<h1 align="center">Currículo</h1>
+<h1 align="center">Projeto</h1>
   <p>Ambev 🍺
 Participei de diversos projetos da Cervejaria Ambev, um dos meus primeiros projetos foi a criação de API'S em NodeJS, utilizando o framework Express. O desafio era criar API's que pegassem todos os dados que a empresa tinha no excel e mandasse tudo para o sistema ServiceNow.(em uma semana). Participei de diversos projetos que engloba desenvolvimento de processos de reembolso, api's em NodeJS e widgets usando Angular / Bootstrap.
 
@@ -11,6 +11,13 @@ Desenvolvi um software de Net Promoter Score, que basicamente é usado para medi
 
 Sistema de monitoramento dos Apps 🖥️
 Desenvolvi um sistema para monitorar o uso dos aplicativos da empresa, como última atualização, quantos clientes estão usando os aplicativo atualmente. O Desenvolvimento foi feito com as frameworks React JS no Front End, Node JS de Back end e uso do Mongodb (banco de dados não relacional) e mySQL (banco de dados relacional) para fazer as pesquisas no banco.</p>
+
+<h1 align="center">Experiência</h1>
+<p>Hackthon 🥇
+Primeiro lugar em uma competição de programação, promovida pela prefeitura de jundiaí, com o apoio da Decathlon, CIJUN e ESEF. Nosso projeto foi o "Bora Correr", nesse projeto desenvolvemos um protótipo de aplicativo que ajuda as pessoas a saírem do sedentarismo, e eu tomei a frente do projeto desenvolvendo um sistema de gerenciamento do App(Usando React JS) e o site (Usando React JS e bootstrap). Um dos nossos prêmios foi a incubação do nossso projeto.</p>
+ <a href="https://cijun.sp.gov.br/2019/09/prefeitura-de-jundiai-premia-estudantes-vencedores-da-hackweekend/" alt="GitHub">
+    <img src="https://cijun.sp.gov.br/wp-content/uploads/2019/09/hackweekend-1170x650.jpg" />
+  </a>
 
 <p align="center">
 🚀 Javascript | ReactJS | NodeJS | Mongo | HTML | CSS | AngularJS | 
