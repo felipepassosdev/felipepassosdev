@@ -7,7 +7,7 @@ Participei de diversos projetos da Cervejaria Ambev, um dos meus primeiros proje
 <h4>Projeto “SEM PARAR” 🚗<h4>
 <p>Recebi o desafio de fazer um widget com integração a um processo do fluig, para a empresa “Sem parar” com um pouco mais de uma semana, o sistema era para cadastro de novos colaboradores que usariam o sistema para anexar Foto 3x4, RG, CPF e comprovante de residência, usei template de email, para poder mandar email automaticamente aos administradores do processo, quando o fluxo percorria, até chegar na aprovação.<p>
 
-<h2>Sistema NPS Online 😁<h2>
+<h4>Sistema NPS Online 😁<h4>
 <p>Desenvolvi um software de Net Promoter Score, que basicamente é usado para medir o grau de satisfação dos nossos clientes. Fiz o layout com Bootstrap e usei a linguagem JavaScript (Ecma 6+), nesse projeto fiz consumo de API, uso de templates de email e criptografia.</p>
 
 <h4>Sistema de monitoramento dos Apps 🖥️<h4>
