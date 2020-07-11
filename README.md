@@ -1,16 +1,17 @@
 
 <h1 align="center">Projetos</h1>
-  <p>Ambev 🍺
-Participei de diversos projetos da Cervejaria Ambev, um dos meus primeiros projetos foi a criação de API'S em NodeJS, utilizando o framework Express. O desafio era criar API's que pegassem todos os dados que a empresa tinha no excel e mandasse tudo para o sistema ServiceNow.(em uma semana). Participei de diversos projetos que engloba desenvolvimento de processos de reembolso, api's em NodeJS e widgets usando Angular / Bootstrap.
+<h2>Ambev 🍺<h2>
+  <p>
+Participei de diversos projetos da Cervejaria Ambev, um dos meus primeiros projetos foi a criação de API'S em NodeJS, utilizando o framework Express. O desafio era criar API's que pegassem todos os dados que a empresa tinha no excel e mandasse tudo para o sistema ServiceNow.(em uma semana). Participei de diversos projetos que engloba desenvolvimento de processos de reembolso, api's em NodeJS e widgets usando Angular / Bootstrap.<p>
 
-Projeto “SEM PARAR” 🚗
-Recebi o desafio de fazer um widget com integração a um processo do fluig, para a empresa “Sem parar” com um pouco mais de uma semana, o sistema era para cadastro de novos colaboradores que usariam o sistema para anexar Foto 3x4, RG, CPF e comprovante de residência, usei template de email, para poder mandar email automaticamente aos administradores do processo, quando o fluxo percorria, até chegar na aprovação.
+<h2>Projeto “SEM PARAR” 🚗<h2>
+<p>Recebi o desafio de fazer um widget com integração a um processo do fluig, para a empresa “Sem parar” com um pouco mais de uma semana, o sistema era para cadastro de novos colaboradores que usariam o sistema para anexar Foto 3x4, RG, CPF e comprovante de residência, usei template de email, para poder mandar email automaticamente aos administradores do processo, quando o fluxo percorria, até chegar na aprovação.<p>
 
-Sistema NPS Online 😁
-Desenvolvi um software de Net Promoter Score, que basicamente é usado para medir o grau de satisfação dos nossos clientes. Fiz o layout com Bootstrap e usei a linguagem JavaScript (Ecma 6+), nesse projeto fiz consumo de API, uso de templates de email e criptografia.
+<h2>Sistema NPS Online 😁<h2>
+<p>Desenvolvi um software de Net Promoter Score, que basicamente é usado para medir o grau de satisfação dos nossos clientes. Fiz o layout com Bootstrap e usei a linguagem JavaScript (Ecma 6+), nesse projeto fiz consumo de API, uso de templates de email e criptografia.</p>
 
-Sistema de monitoramento dos Apps 🖥️
-Desenvolvi um sistema para monitorar o uso dos aplicativos da empresa, como última atualização, quantos clientes estão usando os aplicativo atualmente. O Desenvolvimento foi feito com as frameworks React JS no Front End, Node JS de Back end e uso do Mongodb (banco de dados não relacional) e mySQL (banco de dados relacional) para fazer as pesquisas no banco.</p>
+<h2>Sistema de monitoramento dos Apps 🖥️<h2>
+<p>Desenvolvi um sistema para monitorar o uso dos aplicativos da empresa, como última atualização, quantos clientes estão usando os aplicativo atualmente. O Desenvolvimento foi feito com as frameworks React JS no Front End, Node JS de Back end e uso do Mongodb (banco de dados não relacional) e mySQL (banco de dados relacional) para fazer as pesquisas no banco.</p>
 
 <h1 align="center">Experiência</h1>
 <p>Hackthon 🥇
