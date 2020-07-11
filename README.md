@@ -4,7 +4,7 @@
   <p>
 Participei de diversos projetos da Cervejaria Ambev, um dos meus primeiros projetos foi a criação de API'S em NodeJS, utilizando o framework Express. O desafio era criar API's que pegassem todos os dados que a empresa tinha no excel e mandasse tudo para o sistema ServiceNow.(em uma semana). Participei de diversos projetos que engloba desenvolvimento de processos de reembolso, api's em NodeJS e widgets usando Angular / Bootstrap.<p>
 
-<h2>Projeto “SEM PARAR” 🚗<h2>
+<h4>Projeto “SEM PARAR” 🚗<h4>
 <p>Recebi o desafio de fazer um widget com integração a um processo do fluig, para a empresa “Sem parar” com um pouco mais de uma semana, o sistema era para cadastro de novos colaboradores que usariam o sistema para anexar Foto 3x4, RG, CPF e comprovante de residência, usei template de email, para poder mandar email automaticamente aos administradores do processo, quando o fluxo percorria, até chegar na aprovação.<p>
 
 <h2>Sistema NPS Online 😁<h2>
