@@ -1,9 +1,6 @@
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/avrcoelho/avrcoelho/master/andrecoelho.png" width="500"
-  alt="andrecoelho.dev" />
-</p>
-<p align="center">
-🚀 Javascript | Typescript | ReactJS | React Native | NodeJS | GraphQL | SQL | NoSQL | HTML | CSS | GIT
+🚀 Javascript | ReactJS | NodeJS | Mongo | HTML | CSS | AngularJS | 
 </p>
 <p align="center">
   <a href="" alt="GitHub">
