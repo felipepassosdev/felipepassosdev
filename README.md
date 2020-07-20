@@ -1,5 +1,8 @@
 
 <h1 align="center">Projetos</h1>
+<h4>Kroton 📚<h4>
+  <p>Atualmente estou time Midgard da Kraton ( Cogna Educação ), a segunda maior empresa relacionada a educação do mundo. Referência mundial no setor da educação pelo valor de mercado e pela quantidade de alunos. Inovadora e líder no desenvolvimento e aplicação de tecnologias educacionais. Tecnologias que utilizamos no meu time são React, Redux, NodeJS.<p>
+
 <h4>Ambev 🍺<h4>
   <p>
 Participei de diversos projetos da Cervejaria Ambev, um dos meus primeiros projetos foi a criação de API'S em NodeJS, utilizando o framework Express. O desafio era criar API's que pegassem todos os dados que a empresa tinha no excel e mandasse tudo para o sistema ServiceNow.(em uma semana). Participei de diversos projetos que engloba desenvolvimento de processos de reembolso, api's em NodeJS e widgets usando Angular / Bootstrap.<p>
