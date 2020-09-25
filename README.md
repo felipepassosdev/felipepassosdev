@@ -23,7 +23,7 @@ Participei de diversos projetos da Cervejaria Ambev, um dos meus primeiros proje
     <img src="https://cijun.sp.gov.br/wp-content/uploads/2019/09/hackweekend-1170x650.jpg" />
   </a>
   
-[![FelipePassosdev github stats](https://github-readme-stats.vercel.app/api?username=felipepassosdev)](https://github.com/GoldenMaximo/github-readme-stats)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipepassosdev&layout=compact)](https://github.com/felipepassosdev/github-readme-stats)
+[![FelipePassosdev github stats](https://github-readme-stats.vercel.app/api?username=felipepassosdev)](https://github.com/GoldenMaximo/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipepassosdev&layout=compact)](https://github.com/felipepassosdev/github-readme-stats)
 
 
 <p align="center">
