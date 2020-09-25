@@ -22,6 +22,8 @@ Participei de diversos projetos da Cervejaria Ambev, um dos meus primeiros proje
  <a href="https://cijun.sp.gov.br/2019/09/prefeitura-de-jundiai-premia-estudantes-vencedores-da-hackweekend/" alt="GitHub">
     <img src="https://cijun.sp.gov.br/wp-content/uploads/2019/09/hackweekend-1170x650.jpg" />
   </a>
+  
+<p>[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=felipepassosdev)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 <p align="center">
 🚀 Javascript | ReactJS | NodeJS | Mongo | HTML | CSS | AngularJS | 
